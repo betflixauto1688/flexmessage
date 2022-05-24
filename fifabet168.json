@@ -1,0 +1,88 @@
+[{
+  "type": "flex",
+  "altText": "เเจกฟรีรีบมารับ เครดิตฟรี 200 บาท ถอนได้จริง !!",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/379581b557f28e5f48cf64b3fd133572.png",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/dVTPCQG"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เเจกฟรี !! 200 สมัครสมาชิกรับทันที",
+        "align": "center",
+        "weight": "bold",
+        "size": "lg",
+        "color": "#FFD700"
+      },
+      {
+        "type": "text",
+        "text": "FIFABET168 เว็บตรงเเจกเครดิตฟรี 200 บาท ไม่ค้องฝากก่อน รับง่ายๆเพียงสมัครสมาชิก รับเลย",
+        "align": "center",
+        "size": "sm",
+        "wrap": true,
+        "margin": "sm",
+        "weight": "bold",
+        "color": "#FFFFFF"
+      }
+    ],
+    "backgroundColor": "#000000"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครรับเครดิตฟรี",
+          "uri": "https://lin.ee/dVTPCQG"
+        },
+        "style": "primary",
+        "color": "#8470FF"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาขิก",
+              "uri": "https://lin.ee/dVTPCQG"
+            },
+            "style": "primary",
+            "color": "#8470FF"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ฝากถอนอัตโนมัติ",
+              "uri": "https://allufabet789.online/"
+            },
+            "style": "primary",
+            "color": "#8470FF"
+          }
+        ],
+        "spacing": "sm"
+      }
+    ],
+    "spacing": "sm",
+    "backgroundColor": "#000000"
+  }
+}
+}]
